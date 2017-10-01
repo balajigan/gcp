@@ -1,3 +1,5 @@
 pwd
-cd /
+sudo apt-get update
+sudo apt-get install git-core
+git clone https://github.com/balajigan/gcp.git
 
