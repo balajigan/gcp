@@ -7,5 +7,5 @@ sudo apt-get install git-core
 
 git clone https://github.com/balajigan/gcp.git
 
-python src/main/main.py
+python gcp/src/main/main.py
 
